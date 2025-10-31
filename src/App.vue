@@ -4,7 +4,7 @@ import { Transition } from 'vue';
 </script>
 <template>
     <div>
-        <p> Minh Phuong - Nguyen Tan Hung </p>
+        <p> Minh Phuong yêu Nguyen Tan Hung </p>
         <RouterLink class="btn" to="/">Home</RouterLink>
         <RouterLink class="btn" to="/about">About</RouterLink>
         <RouterLink class="btn" to="/table">Table</RouterLink>
