@@ -4,6 +4,7 @@ import { Transition } from 'vue';
 </script>
 <template>
     <div>
+        Nguyen Tan Hung
         <RouterLink class="btn" to="/">Home</RouterLink>
         <RouterLink class="btn" to="/about">About</RouterLink>
         <RouterLink class="btn" to="/table">Table</RouterLink>
@@ -53,4 +54,5 @@ a {
     margin-right: 5px;
     cursor: pointer;
 }
+
 </style>
